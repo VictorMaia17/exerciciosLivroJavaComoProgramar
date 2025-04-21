@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="ValidaEntradas">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../ValidaEntradas/out/artifacts/ValidaEntradas_jar/ValidaEntradas.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
