@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="ValidEntry:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/ValidEntry_jar</output-path>
-    <root id="archive" name="ValidaEntradas.jar">
-      <element id="module-output" name="ValidaEntradas" />
-    </root>
-  </artifact>
-</component>
